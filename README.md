@@ -40,7 +40,7 @@ Below are screenshots of the application:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sushank-ghimire/fileconverter.git
+   git clone https://github.com/CodewithEvilxd/fileconverter.git
    cd fileconverter
    ```
 
@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by [Sushank Ghimire](https://github.com/Sushank-ghimire).
+Built with ❤️ by [Evilxd](https://github.com/CodewithEvilxd).
